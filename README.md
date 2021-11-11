@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @bryangj23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<!---
-bryangj23/bryangj23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Interesado en la progamacion con el lenguaje Java
+- 💞️ Estoy buscando colaborara en proyectos en los cuales puede lograr el anterior punto
+
+Este proyecto consiste en la creacion de un CRUD con el Framework Spring Boot mediante arquitectura de servicios Rest.
+
+
