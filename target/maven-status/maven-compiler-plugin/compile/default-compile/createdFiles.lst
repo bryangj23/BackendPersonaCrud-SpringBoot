@@ -1,0 +1,7 @@
+mx\com\bg\PersonaCRUD\repository\PaisRepository.class
+mx\com\bg\PersonaCRUD\model\Pais.class
+mx\com\bg\PersonaCRUD\repository\EstadoRepository.class
+mx\com\bg\PersonaCRUD\repository\PersonaRepository.class
+mx\com\bg\PersonaCRUD\model\Estado.class
+mx\com\bg\PersonaCRUD\model\Persona.class
+mx\com\bg\PersonaCRUD\PersonaCrudApplication.class
